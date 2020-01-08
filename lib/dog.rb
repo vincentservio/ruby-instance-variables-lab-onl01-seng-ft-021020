@@ -1,3 +1,3 @@
 def dog 
-  dog? 
+  dog?
 end 
